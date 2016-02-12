@@ -1,0 +1,19 @@
+{
+  "name": "njs-compiler",
+  "version": "1.0.0",
+  "description": "NJS core component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavel-vo/njs-compiler.git"
+  },
+  "author": "Pavel Nikotin <mail@intelin.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pavel-vo/njs-compiler/issues"
+  },
+  "homepage": "https://github.com/Pavel-vo/njs-compiler#readme"
+}
